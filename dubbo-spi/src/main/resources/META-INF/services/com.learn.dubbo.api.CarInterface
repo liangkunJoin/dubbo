@@ -1,0 +1,5 @@
+black=com.learn.dubbo.impl.BlackCar
+red=com.learn.dubbo.impl.RedCar
+com.learn.dubbo.wrapper.CarWrapper
+com.learn.dubbo.wrapper.CarWrapper2
+daz=com.learn.dubbo.impl.DazCar
